@@ -1,0 +1,451 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Notepad++
+</name>
+</assembly>
+<members>
+<member name="T:Notepad.My.MyWpfExtension">
+ <summary>
+ Module utilisé pour définir les propriétés qui sont disponibles dans l'espace de noms My pour WPF
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:Notepad.My.MyWpfExtension.Application">
+ <summary>
+ Retourne l'objet application pour l'application en cours d'exécution
+ </summary>
+</member>
+<member name="P:Notepad.My.MyWpfExtension.Computer">
+ <summary>
+ Retourne les informations relatives à l'ordinateur hôte.
+ </summary>
+</member>
+<member name="P:Notepad.My.MyWpfExtension.User">
+ <summary>
+ Retourne les informations relatives à l'utilisateur actuel.  Si vous souhaitez exécuter l'application avec les 
+ informations d'identification de l'utilisateur Windows, appelez My.User.InitializeWithWindowsUser().
+ </summary>
+</member>
+<member name="P:Notepad.My.MyWpfExtension.Log">
+ <summary>
+ Retourne le journal des applications. L'écouteur peut être configuré par le fichier de configuration de l'application.
+ </summary>
+</member>
+<member name="P:Notepad.My.MyWpfExtension.Windows">
+ <summary>
+ Retourne la collection de fenêtres définie dans le projet.
+ </summary>
+</member>
+<member name="T:Notepad.My.Resources.Resources">
+<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+<member name="P:Notepad.My.Resources.Resources.ResourceManager">
+<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member>
+<member name="P:Notepad.My.Resources.Resources.Culture">
+<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member>
+<member name="T:Notepad.FindDialog">
+<summary>
+FindDialog
+</summary>
+</member>
+<member name="M:Notepad.FindDialog.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Notepad.GoToDialog">
+<summary>
+GoToDialog
+</summary>
+</member>
+<member name="M:Notepad.GoToDialog.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Notepad.ReplaceDialog">
+<summary>
+ReplaceDialog
+</summary>
+</member>
+<member name="M:Notepad.ReplaceDialog.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Notepad.EmailDialog">
+<summary>
+EmailDialog
+</summary>
+</member>
+<member name="M:Notepad.EmailDialog.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Notepad.ExportFTPDialog">
+<summary>
+ExportFTPDialog
+</summary>
+</member>
+<member name="M:Notepad.ExportFTPDialog.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Notepad.Utilities.FTP.FTPclient">
+ <summary>
+ A wrapper class for .NET 2.0 FTP
+ </summary>
+ <remarks>
+ This class does not hold open an FTP connection but 
+ instead is stateless: for each FTP request it 
+ connects, performs the request and disconnects.
+ </remarks>
+</member>
+<member name="M:Notepad.Utilities.FTP.FTPclient.#ctor">
+ <summary>
+ Blank constructor
+ </summary>
+ <remarks>Hostname, username and password must be set manually</remarks>
+</member>
+<member name="M:Notepad.Utilities.FTP.FTPclient.#ctor(System.String)">
+ <summary>
+ Constructor just taking the hostname
+ </summary>
+ <param name="Hostname">in either ftp://ftp.host.com or ftp.host.com form</param>
+ <remarks></remarks>
+</member>
+<member name="M:Notepad.Utilities.FTP.FTPclient.#ctor(System.String,System.String,System.String)">
+ <summary>
+ Constructor taking hostname, username and password
+ </summary>
+ <param name="Hostname">in either ftp://ftp.host.com or ftp.host.com form</param>
+ <param name="Username">Leave blank to use 'anonymous' but set password to your email</param>
+ <param name="Password"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Notepad.Utilities.FTP.FTPclient.ListDirectory(System.String)">
+ <summary>
+ Return a simple directory listing
+ </summary>
+ <param name="directory">Directory to list, e.g. /pub</param>
+ <returns>A list of filenames and directories as a List(of String)</returns>
+ <remarks>For a detailed directory listing, use ListDirectoryDetail</remarks>
+</member>
+<member name="M:Notepad.Utilities.FTP.FTPclient.ListDirectoryDetail(System.String)">
+ <summary>
+ Return a detailed directory listing
+ </summary>
+ <param name="directory">Directory to list, e.g. /pub/etc</param>
+ <returns>An FTPDirectory object</returns>
+</member>
+<member name="M:Notepad.Utilities.FTP.FTPclient.Upload(System.String,System.String)">
+ <summary>
+ Copy a local file to the FTP server
+ </summary>
+ <param name="localFilename">Full path of the local file</param>
+ <param name="targetFilename">Target filename, if required</param>
+ <returns></returns>
+ <remarks>If the target filename is blank, the source filename is used
+ (assumes current directory). Otherwise use a filename to specify a name
+ or a full path and filename if required.</remarks>
+</member>
+<member name="M:Notepad.Utilities.FTP.FTPclient.Upload(System.IO.FileInfo,System.String)">
+ <summary>
+ Upload a local file to the FTP server
+ </summary>
+ <param name="fi">Source file</param>
+ <param name="targetFilename">Target filename (optional)</param>
+ <returns></returns>
+</member>
+<member name="M:Notepad.Utilities.FTP.FTPclient.Download(System.String,System.String,System.Boolean)">
+ <summary>
+ Copy a file from FTP server to local
+ </summary>
+ <param name="sourceFilename">Target filename, if required</param>
+ <param name="localFilename">Full path of the local file</param>
+ <returns></returns>
+ <remarks>Target can be blank (use same filename), or just a filename
+ (assumes current directory) or a full path and filename</remarks>
+</member>
+<member name="M:Notepad.Utilities.FTP.FTPclient.FtpDelete(System.String)">
+ <summary>
+ Delete remote file
+ </summary>
+ <param name="filename">filename or full path</param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:Notepad.Utilities.FTP.FTPclient.FtpFileExists(System.String)">
+ <summary>
+ Determine if file exists on remote FTP site
+ </summary>
+ <param name="filename">Filename (for current dir) or full path</param>
+ <returns></returns>
+ <remarks>Note this only works for files</remarks>
+</member>
+<member name="M:Notepad.Utilities.FTP.FTPclient.GetFileSize(System.String)">
+ <summary>
+ Determine size of remote file
+ </summary>
+ <param name="filename"></param>
+ <returns></returns>
+ <remarks>Throws an exception if file does not exist</remarks>
+</member>
+<member name="M:Notepad.Utilities.FTP.FTPclient.GetCredentials">
+ <summary>
+ Get the credentials from username/password
+ </summary>
+</member>
+<member name="M:Notepad.Utilities.FTP.FTPclient.GetFullPath(System.String)">
+ <summary>
+ returns a full path using CurrentDirectory for a relative file reference
+ </summary>
+</member>
+<member name="M:Notepad.Utilities.FTP.FTPclient.AdjustDir(System.String)">
+ <summary>
+ Amend an FTP path so that it always starts with /
+ </summary>
+ <param name="path">Path to adjust</param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:Notepad.Utilities.FTP.FTPclient.GetStringResponse(System.Net.FtpWebRequest)">
+ <summary>
+ Obtains a response stream as a string
+ </summary>
+ <param name="ftp">current FTP request</param>
+ <returns>String containing response</returns>
+ <remarks>FTP servers typically return strings with CR and
+ not CRLF. Use respons.Replace(vbCR, vbCRLF) to convert
+ to an MSDOS string</remarks>
+</member>
+<member name="M:Notepad.Utilities.FTP.FTPclient.GetSize(System.Net.FtpWebRequest)">
+ <summary>
+ Gets the size of an FTP request
+ </summary>
+ <param name="ftp"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Notepad.Utilities.FTP.FTPclient.Hostname">
+ <summary>
+ Hostname
+ </summary>
+ <value></value>
+ <remarks>Hostname can be in either the full URL format
+ ftp://ftp.myhost.com or just ftp.myhost.com
+ </remarks>
+</member>
+<member name="P:Notepad.Utilities.FTP.FTPclient.Username">
+ <summary>
+ Username property
+ </summary>
+ <value></value>
+ <remarks>Can be left blank, in which case 'anonymous' is returned</remarks>
+</member>
+<member name="F:Notepad.Utilities.FTP.FTPclient._currentDirectory">
+ <summary>
+ The CurrentDirectory value
+ </summary>
+ <remarks>Defaults to the root '/'</remarks>
+</member>
+<member name="T:Notepad.Utilities.FTP.FTPfileInfo">
+ <summary>
+ Represents a file or directory entry from an FTP listing
+ </summary>
+ <remarks>
+ This class is used to parse the results from a detailed
+ directory list from FTP. It supports most formats of
+ </remarks>
+</member>
+<member name="T:Notepad.Utilities.FTP.FTPfileInfo.DirectoryEntryTypes">
+ <summary>
+ Identifies entry as either File or Directory
+ </summary>
+</member>
+<member name="M:Notepad.Utilities.FTP.FTPfileInfo.#ctor(System.String,System.String)">
+ <summary>
+ Constructor taking a directory listing line and path
+ </summary>
+ <param name="line">The line returned from the detailed directory list</param>
+ <param name="path">Path of the directory</param>
+ <remarks></remarks>
+</member>
+<member name="F:Notepad.Utilities.FTP.FTPfileInfo._ParseFormats">
+ <summary>
+ List of REGEX formats for different FTP server listing formats
+ </summary>
+ <remarks>
+ The first three are various UNIX/LINUX formats, fourth is for MS FTP
+ in detailed mode and the last for MS FTP in 'DOS' mode.
+ I wish VB.NET had support for Const arrays like C# but there you go
+ </remarks>
+</member>
+<member name="T:Notepad.Utilities.FTP.FTPdirectory">
+ <summary>
+ Stores a list of files and directories from an FTP result
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Notepad.Utilities.FTP.FTPdirectory.#ctor(System.String,System.String)">
+ <summary>
+ Constructor: create list from a (detailed) directory string
+ </summary>
+ <param name="dir">directory listing string</param>
+ <param name="path"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Notepad.Utilities.FTP.FTPdirectory.GetFiles(System.String)">
+ <summary>
+ Filter out only files from directory listing
+ </summary>
+ <param name="ext">optional file extension filter</param>
+ <returns>FTPdirectory listing</returns>
+</member>
+<member name="M:Notepad.Utilities.FTP.FTPdirectory.GetDirectories">
+ <summary>
+ Returns a list of only subdirectories
+ </summary>
+ <returns>FTPDirectory list</returns>
+ <remarks></remarks>
+</member>
+<member name="T:Notepad.WordpressDialog">
+<summary>
+WordpressDialog
+</summary>
+</member>
+<member name="M:Notepad.WordpressDialog.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Notepad.ImportFTPDialog">
+<summary>
+ImportFTPDialog
+</summary>
+</member>
+<member name="M:Notepad.ImportFTPDialog.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Notepad.PrintPreviewDialog">
+<summary>
+PrintPreviewDialog
+</summary>
+</member>
+<member name="M:Notepad.PrintPreviewDialog.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Notepad.MessageBoxDialog">
+<summary>
+MessageBoxDialog
+</summary>
+</member>
+<member name="M:Notepad.MessageBoxDialog.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Notepad.EditExToolDialog">
+<summary>
+EditExToolDialog
+</summary>
+</member>
+<member name="M:Notepad.EditExToolDialog.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Notepad.ExternalToolsDialog">
+<summary>
+ExternalToolsDialog
+</summary>
+</member>
+<member name="M:Notepad.ExternalToolsDialog.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Notepad.Application">
+<summary>
+Application
+</summary>
+</member>
+<member name="M:Notepad.Application.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="M:Notepad.Application.Main">
+<summary>
+Application Entry Point.
+</summary>
+</member>
+<member name="T:Notepad.TabHeader">
+<summary>
+TabHeader
+</summary>
+</member>
+<member name="M:Notepad.TabHeader.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Notepad.NewFileDialog">
+<summary>
+NewFileDialog
+</summary>
+</member>
+<member name="M:Notepad.NewFileDialog.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Notepad.AboutDialog">
+<summary>
+AboutDialog
+</summary>
+</member>
+<member name="M:Notepad.AboutDialog.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Notepad.OptionsDialog">
+<summary>
+OptionsDialog
+</summary>
+</member>
+<member name="M:Notepad.OptionsDialog.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Notepad.MainWindow">
+<summary>
+MainWindow
+</summary>
+</member>
+<member name="M:Notepad.MainWindow.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>

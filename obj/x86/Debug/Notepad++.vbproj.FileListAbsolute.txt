@@ -1,0 +1,395 @@
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Templates\Misc\misc.gml
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Templates\Misc\misc.ini
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Syntax\perl.xshd
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Templates\ASP.Net\asp.net.aspx
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Templates\Boo\boo.boo
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Templates\CSharp\cs.cs
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Templates\Java\java.java
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Templates\Misc\misc.asm
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Templates\Misc\misc.css
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Templates\Misc\misc.py
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Templates\Misc\misc.sql
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Templates\Misc\misc.pl
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Templates\Misc\misc.rb
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Templates\VB.Net\vb.net.vb
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Templates\Php\php.php
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Templates\JavaScript\js.js
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Templates\Xml\xml.xml
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Templates\CPlusPlus\cpp.cpp
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Templates\CPlusPlus\cpp.h
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Templates\Html\html.htm
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Templates\Html\html.html
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Templates\Misc\misc.txt
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Syntax\asm.xshd
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Syntax\css.xshd
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Syntax\gml.xshd
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Syntax\ini.xshd
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Syntax\lua.xshd
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Syntax\sql.xshd
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Templates\Misc\misc.bat
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Templates\Misc\misc.lua
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Notepad++.exe.config
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Notepad++.exe
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Notepad++.pdb
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Notepad++.xml
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\icsharpcode.avalonedit.dll
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Ionic.Zip.dll
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Ionic.Zip.Reduced.dll
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Expression.dll
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2013.dll
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fouad\Desktop\sourceCode\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Dialogs\Edit\FindDialog.baml
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Dialogs\Edit\GoToDialog.baml
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Dialogs\Edit\ReplaceDialog.baml
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Dialogs\File\Export\EmailDialog.baml
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Dialogs\File\Export\ExportFTPDialog.baml
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Dialogs\File\Export\WordpressDialog.baml
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Dialogs\File\Import\ImportFTPDialog.baml
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Dialogs\File\PrintPreviewDialog.baml
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Dialogs\MessageBoxDialog.baml
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Dialogs\Tools\EditExToolDialog.baml
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Dialogs\Tools\ExternalToolsDialog.baml
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\TabHeader.baml
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Dialogs\File\NewFileDialog.baml
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Dialogs\Help\AboutDialog.baml
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Dialogs\Tools\OptionsDialog.baml
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\MainWindow.baml
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Dialogs\Edit\FindDialog.g.vb
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Dialogs\Edit\GoToDialog.g.vb
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Dialogs\Edit\ReplaceDialog.g.vb
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Dialogs\File\Export\EmailDialog.g.vb
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Dialogs\File\Export\ExportFTPDialog.g.vb
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Dialogs\File\Export\WordpressDialog.g.vb
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Dialogs\File\Import\ImportFTPDialog.g.vb
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Dialogs\File\PrintPreviewDialog.g.vb
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Dialogs\MessageBoxDialog.g.vb
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Dialogs\Tools\EditExToolDialog.g.vb
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Dialogs\Tools\ExternalToolsDialog.g.vb
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\TabHeader.g.vb
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Dialogs\File\NewFileDialog.g.vb
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Dialogs\Help\AboutDialog.g.vb
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Dialogs\Tools\OptionsDialog.g.vb
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\MainWindow.g.vb
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Application.g.vb
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Notepad++_Content.g.vb
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Notepad++_MarkupCompile.cache
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Notepad++.g.resources
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Notepad.Resources.resources
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Notepad++.vbproj.GenerateResource.Cache
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Notepad++.exe
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Notepad++.xml
+C:\Users\fouad\Desktop\sourceCode\obj\x86\Debug\Notepad++.pdb
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Templates\Misc\misc.gml
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Templates\Misc\misc.ini
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Syntax\perl.xshd
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Templates\ASP.Net\asp.net.aspx
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Templates\Boo\boo.boo
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Templates\CSharp\cs.cs
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Templates\Java\java.java
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Templates\Misc\misc.asm
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Templates\Misc\misc.css
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Templates\Misc\misc.py
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Templates\Misc\misc.sql
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Templates\Misc\misc.pl
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Templates\Misc\misc.rb
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Templates\VB.Net\vb.net.vb
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Templates\Php\php.php
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Templates\JavaScript\js.js
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Templates\Xml\xml.xml
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Templates\CPlusPlus\cpp.cpp
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Templates\CPlusPlus\cpp.h
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Templates\Html\html.htm
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Templates\Html\html.html
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Templates\Misc\misc.txt
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Syntax\asm.xshd
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Syntax\css.xshd
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Syntax\gml.xshd
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Syntax\ini.xshd
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Syntax\lua.xshd
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Syntax\sql.xshd
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Templates\Misc\misc.bat
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Templates\Misc\misc.lua
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Notepad++.exe.config
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Notepad++.exe
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Notepad++.pdb
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Notepad++.xml
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\icsharpcode.avalonedit.dll
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Ionic.Zip.dll
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Ionic.Zip.Reduced.dll
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Expression.dll
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2013.dll
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fouad\Desktop\Notepad++\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Notepad++.vbprojAssemblyReference.cache
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Dialogs\Edit\FindDialog.baml
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Dialogs\Edit\GoToDialog.baml
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Dialogs\Edit\ReplaceDialog.baml
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Dialogs\File\Export\EmailDialog.baml
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Dialogs\File\Export\ExportFTPDialog.baml
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Dialogs\File\Export\WordpressDialog.baml
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Dialogs\File\Import\ImportFTPDialog.baml
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Dialogs\File\PrintPreviewDialog.baml
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Dialogs\MessageBoxDialog.baml
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Dialogs\Tools\EditExToolDialog.baml
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Dialogs\Tools\ExternalToolsDialog.baml
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\TabHeader.baml
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Dialogs\File\NewFileDialog.baml
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Dialogs\Help\AboutDialog.baml
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Dialogs\Tools\OptionsDialog.baml
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\MainWindow.baml
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Dialogs\Edit\FindDialog.g.vb
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Dialogs\Edit\GoToDialog.g.vb
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Dialogs\Edit\ReplaceDialog.g.vb
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Dialogs\File\Export\EmailDialog.g.vb
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Dialogs\File\Export\ExportFTPDialog.g.vb
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Dialogs\File\Export\WordpressDialog.g.vb
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Dialogs\File\Import\ImportFTPDialog.g.vb
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Dialogs\File\PrintPreviewDialog.g.vb
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Dialogs\MessageBoxDialog.g.vb
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Dialogs\Tools\EditExToolDialog.g.vb
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Dialogs\Tools\ExternalToolsDialog.g.vb
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\TabHeader.g.vb
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Dialogs\File\NewFileDialog.g.vb
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Dialogs\Help\AboutDialog.g.vb
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Dialogs\Tools\OptionsDialog.g.vb
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\MainWindow.g.vb
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Application.g.vb
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Notepad++_Content.g.vb
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Notepad++_MarkupCompile.cache
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Notepad++.g.resources
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Notepad.Resources.resources
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Notepad++.vbproj.GenerateResource.cache
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Notepad++.vbproj.CoreCompileInputs.cache
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Notepad++.vbproj.CopyComplete
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Notepad++.exe
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Notepad++.xml
+C:\Users\fouad\Desktop\Notepad++\obj\x86\Debug\Notepad++.pdb
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Templates\Misc\misc.gml
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Templates\Misc\misc.ini
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Syntax\perl.xshd
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Templates\ASP.Net\asp.net.aspx
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Templates\Boo\boo.boo
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Templates\CSharp\cs.cs
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Templates\Java\java.java
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Templates\Misc\misc.asm
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Templates\Misc\misc.css
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Templates\Misc\misc.py
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Templates\Misc\misc.sql
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Templates\Misc\misc.pl
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Templates\Misc\misc.rb
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Templates\VB.Net\vb.net.vb
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Templates\Php\php.php
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Templates\JavaScript\js.js
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Templates\Xml\xml.xml
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Templates\CPlusPlus\cpp.cpp
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Templates\CPlusPlus\cpp.h
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Templates\Html\html.htm
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Templates\Html\html.html
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Templates\Misc\misc.txt
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Syntax\asm.xshd
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Syntax\css.xshd
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Syntax\gml.xshd
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Syntax\ini.xshd
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Syntax\lua.xshd
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Syntax\sql.xshd
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Templates\Misc\misc.bat
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Templates\Misc\misc.lua
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Notepad++.exe.config
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Notepad++.exe
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Notepad++.pdb
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Notepad++.xml
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\icsharpcode.avalonedit.dll
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Ionic.Zip.dll
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Ionic.Zip.Reduced.dll
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Expression.dll
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2013.dll
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fouad\Desktop\source Code Notepad++\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Notepad++.vbprojAssemblyReference.cache
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Dialogs\Edit\FindDialog.baml
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Dialogs\Edit\GoToDialog.baml
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Dialogs\Edit\ReplaceDialog.baml
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Dialogs\File\Export\EmailDialog.baml
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Dialogs\File\Export\ExportFTPDialog.baml
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Dialogs\File\Export\WordpressDialog.baml
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Dialogs\File\Import\ImportFTPDialog.baml
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Dialogs\File\PrintPreviewDialog.baml
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Dialogs\MessageBoxDialog.baml
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Dialogs\Tools\EditExToolDialog.baml
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Dialogs\Tools\ExternalToolsDialog.baml
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\TabHeader.baml
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Dialogs\File\NewFileDialog.baml
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Dialogs\Help\AboutDialog.baml
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Dialogs\Tools\OptionsDialog.baml
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\MainWindow.baml
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Dialogs\Edit\FindDialog.g.vb
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Dialogs\Edit\GoToDialog.g.vb
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Dialogs\Edit\ReplaceDialog.g.vb
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Dialogs\File\Export\EmailDialog.g.vb
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Dialogs\File\Export\ExportFTPDialog.g.vb
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Dialogs\File\Export\WordpressDialog.g.vb
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Dialogs\File\Import\ImportFTPDialog.g.vb
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Dialogs\File\PrintPreviewDialog.g.vb
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Dialogs\MessageBoxDialog.g.vb
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Dialogs\Tools\EditExToolDialog.g.vb
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Dialogs\Tools\ExternalToolsDialog.g.vb
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\TabHeader.g.vb
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Dialogs\File\NewFileDialog.g.vb
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Dialogs\Help\AboutDialog.g.vb
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Dialogs\Tools\OptionsDialog.g.vb
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\MainWindow.g.vb
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Application.g.vb
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Notepad++_Content.g.vb
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Notepad++_MarkupCompile.cache
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Notepad++.g.resources
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Notepad.Resources.resources
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Notepad++.vbproj.GenerateResource.cache
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Notepad++.vbproj.CoreCompileInputs.cache
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Notepad++.vbproj.CopyComplete
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Notepad++.exe
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Notepad++.xml
+C:\Users\fouad\Desktop\source Code Notepad++\obj\x86\Debug\Notepad++.pdb
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Notepad++.exe.config
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Notepad++.exe
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Notepad++.xml
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Notepad++.pdb
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Templates\Misc\misc.gml
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Templates\Misc\misc.ini
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Syntax\perl.xshd
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Templates\ASP.Net\asp.net.aspx
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Templates\Boo\boo.boo
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Templates\CSharp\cs.cs
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Templates\Java\java.java
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Templates\Misc\misc.asm
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Templates\Misc\misc.css
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Templates\Misc\misc.py
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Templates\Misc\misc.sql
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Templates\Misc\misc.pl
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Templates\Misc\misc.rb
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Templates\VB.Net\vb.net.vb
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Templates\Php\php.php
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Templates\JavaScript\js.js
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Templates\Xml\xml.xml
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Templates\CPlusPlus\cpp.cpp
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Templates\CPlusPlus\cpp.h
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Templates\Html\html.htm
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Templates\Html\html.html
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Templates\Misc\misc.txt
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Syntax\asm.xshd
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Syntax\css.xshd
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Syntax\gml.xshd
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Syntax\ini.xshd
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Syntax\lua.xshd
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Syntax\sql.xshd
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Templates\Misc\misc.bat
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Templates\Misc\misc.lua
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Notepad++.exe
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Notepad++.pdb
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Notepad++.xml
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\icsharpcode.avalonedit.dll
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Ionic.Zip.dll
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Ionic.Zip.Reduced.dll
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Expression.dll
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2013.dll
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\this\Downloads\Compressed\source Code Notepad++\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Notepad++.vbprojResolveAssemblyReference.cache
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Dialogs\Edit\FindDialog.baml
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Dialogs\Edit\GoToDialog.baml
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Dialogs\Edit\ReplaceDialog.baml
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Dialogs\File\Export\EmailDialog.baml
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Dialogs\File\Export\ExportFTPDialog.baml
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Dialogs\File\Export\WordpressDialog.baml
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Dialogs\File\Import\ImportFTPDialog.baml
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Dialogs\File\PrintPreviewDialog.baml
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Dialogs\MessageBoxDialog.baml
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Dialogs\Tools\EditExToolDialog.baml
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Dialogs\Tools\ExternalToolsDialog.baml
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\TabHeader.baml
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Dialogs\File\NewFileDialog.baml
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Dialogs\Help\AboutDialog.baml
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Dialogs\Tools\OptionsDialog.baml
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\MainWindow.baml
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Dialogs\Edit\FindDialog.g.vb
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Dialogs\Edit\GoToDialog.g.vb
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Dialogs\Edit\ReplaceDialog.g.vb
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Dialogs\File\Export\EmailDialog.g.vb
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Dialogs\File\Export\ExportFTPDialog.g.vb
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Dialogs\File\Export\WordpressDialog.g.vb
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Dialogs\File\Import\ImportFTPDialog.g.vb
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Dialogs\File\PrintPreviewDialog.g.vb
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Dialogs\MessageBoxDialog.g.vb
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Dialogs\Tools\EditExToolDialog.g.vb
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Dialogs\Tools\ExternalToolsDialog.g.vb
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\TabHeader.g.vb
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Dialogs\File\NewFileDialog.g.vb
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Dialogs\Help\AboutDialog.g.vb
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Dialogs\Tools\OptionsDialog.g.vb
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\MainWindow.g.vb
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Application.g.vb
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Notepad++_Content.g.vb
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Notepad++_MarkupCompile.cache
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Notepad++.g.resources
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Notepad.Resources.resources
+C:\Users\this\Downloads\Compressed\source Code Notepad++\obj\x86\Debug\Notepad++.vbproj.GenerateResource.Cache
